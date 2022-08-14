@@ -46,6 +46,16 @@ if(IS_TOUCH_DEVICE){
   window.addEventListener('touchmove', process_touchmove, false);
 }
 window.addEventListener('mousemove', handleMovement, false);
+document.addEventListener("mouseleave", (event) => {  
+  if (event.clientY <= 0 || event.clientX <= 0 || (event.clientX >= window.innerWidth || event.clientY >= window.innerHeight)) {  
+    cursor.style.display = "none"; 
+  }  
+});
+document.addEventListener("mouseenter", (event) => {  
+  if (event.clientY >= 0 && event.clientX >= 0 && event.clientX <= window.innerWidth && event.clientY <= window.innerHeight) {  
+    cursor.style.display = "block"; 
+  }  
+});
 
 function dist(x1, y1, x2, y2){
   return Math.sqrt(Math.pow(x1 - x2, 2) + Math.pow(y1 - y2, 2));
