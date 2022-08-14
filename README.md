@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+View in [Github Pages](https://bence-boer.github.io/bence-boer/) or directly on [Github](https://github.com/bence-boer/bence-boer/) 
+* [wut](/bence-boer/preview.html)
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
