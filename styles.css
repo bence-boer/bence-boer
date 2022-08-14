@@ -30,8 +30,6 @@ h1{
   box-sizing: border-box;
   padding-bottom: 0.1em;
   border-bottom: dashed var(--dark-color) 0.1em;
-
-  /*cursor: pointer;*/
 }
 h2{
   margin: 0;
@@ -63,17 +61,18 @@ h2{
 
 #cursor{
   position: fixed;
-  left: 0;
-  top: 0;
+  left: 50vw;
+  top: 50vh;
   transform: translateX(-50%) translateY(-50%);
 
   width: 1vw;
   height: 1vw;
 
   background-color: white;
-  /*mix-blend-mode: soft-light;*/
   border-radius: 50%;
   box-shadow: 0 0 30px 20px white;
+
+  display: none;
 }
 
 .wave span:nth-of-type(1){
