@@ -1,8 +1,8 @@
 # Hello, I'm Bence Boér! 👋
 
-I am your friendly neighborhood [**software developer**](https://bence-boer.github.io/bence-boer/) and UI/UX designer, always eager to discover new and exciting projects to work on. Currently, I am pursuing a degree in Computer Science at [**ELTE**](https://www.elte.hu/en/) and working part-time as a developer at [**ARDINSYS zrt.**](https://ardinsys.hu/)
+I am your friendly neighborhood [**software developer**](https://bence-boer.github.io/bence-boer/) and UI/UX designer, always eager to discover new and exciting projects to work on. Currently, I am pursuing a bachelor's degree in Computer Science at [**ELTE**](https://www.elte.hu/en/) and working part-time as an application developer intern at [**Oracle**](https://www.oracle.com/)
 
-Feel free to explore my projects and don't hesitate to contact me if you have any exciting ideas you'd like to collaborate on.
+Feel free to explore my projects and don't hesitate to contact me if you have any exciting ideas you'd like to collaborate on!
 
 ---
 ## 🔭 Current Projects
@@ -12,12 +12,11 @@ Feel free to explore my projects and don't hesitate to contact me if you have an
 ---
 
 ## 🌱 Currently Learning
-- [`Angular`](https://angular.io/) - A TypeScript-based open-source web application framework led by the Angular Team at Google
+- [`OJET`](https://www.oracle.com/webfolder/technetwork/jet/index.html) - OJET (Oracle JavaScript Extension Toolkit) is an open-source JavaScript framework developed by Oracle, designed for creating enterprise-level web applications
 - [`Figma`](https://www.figma.com/) - A vector graphics editor, UI/UX design, and prototyping tool
-- [`Next.js`](https://nextjs.org/) - A React-based open-source framework for creating full-stack web applications
-- [`Tailwind CSS`](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom user interfaces
+- [`Java Swing`](https://download.java.net/java/early_access/loom/docs/api/java.desktop/javax/swing/package-summary.html) - Part of Java's standard library, provides a set of GUI components for building rich desktop applications, known for its cross-platform compatibility and customizable widgets.
 ---
 
 ## 📫 Get in Touch
-- `Email:` [bence0822@gmail.com](mailto:bence0822@gmail.com)
+- `Email:` [bence.boer2@gmail.com](mailto:bence.boer2@gmail.com)
 - `LinkedIn:` [bence-boer](https://www.linkedin.com/in/bence-boer/)
